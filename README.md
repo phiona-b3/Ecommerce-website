@@ -34,6 +34,7 @@ Go to the project directory
   
   '''to run sanity for the backend
   cd sanity_ecommerce
+  '''
 ```
 
 Install dependencies
@@ -74,4 +75,5 @@ I'm a frontend end developer...
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, React
+Javascript, HTML, CSS, React, Nextjs
+
