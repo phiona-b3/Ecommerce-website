@@ -32,9 +32,9 @@ Go to the project directory
 ```bash
   cd ecommerce
   
-  '''to run sanity for the backend
+  ```to run sanity for the backend
   cd sanity_ecommerce
-  '''
+  ```
 ```
 
 Install dependencies
